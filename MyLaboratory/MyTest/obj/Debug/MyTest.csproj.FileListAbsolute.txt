@@ -1,0 +1,10 @@
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\MyTest\bin\Debug\MyTest.exe.config
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\MyTest\bin\Debug\MyTest.exe
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\MyTest\bin\Debug\MyTest.pdb
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\MyTest\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\MyTest\bin\Debug\office.dll
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\MyTest\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\MyTest\bin\Debug\stdole.dll
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\MyTest\obj\Debug\MyTest.csprojResolveAssemblyReference.cache
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\MyTest\obj\Debug\MyTest.exe
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\MyTest\obj\Debug\MyTest.pdb

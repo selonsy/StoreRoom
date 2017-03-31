@@ -1,0 +1,2954 @@
+[ 2016-06-07T09:54:44+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-06-07T10:22:13+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T10:23:46+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T10:27:45+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-06-07T10:27:47+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T10:27:48+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T10:27:51+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T10:27:53+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T10:28:04+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-06-07T10:28:05+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T10:28:06+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T10:28:13+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T10:28:14+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T10:28:15+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T10:28:55+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T10:29:28+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T11:02:16+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T11:02:40+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T11:02:59+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T11:04:00+08:00 ] ::1 /Home/SearchData/save/%E6%9D%BE%E6%9D%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 参数错误或者未定义:key
+
+[ 2016-06-07T11:04:28+08:00 ] ::1 /Home/SearchData/save/key=%E6%9D%BE%E6%9D%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 参数错误或者未定义:key
+
+[ 2016-06-07T11:04:37+08:00 ] ::1 /Home/SearchData/save/key=%E6%9D%BE%E6%9D%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: key D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\Application\Home\Controller\SearchDataController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T11:05:28+08:00 ] ::1 /Home/SearchData/save/key=%E6%9D%BE%E6%9D%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: key D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\Application\Home\Controller\SearchDataController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-06-07T11:05:32+08:00 ] ::1 /Home/SearchData/save/key/%E6%9D%BE%E6%9D%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T11:07:06+08:00 ] ::1 /Home/SearchData/save/key/%E6%9D%BE%E6%9D%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: A D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\Application\Home\Controller\SearchDataController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T11:07:27+08:00 ] ::1 /Home/SearchData/save/key/%E6%9D%BE%E6%9D%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: A D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\Application\Home\Controller\SearchDataController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T11:07:58+08:00 ] ::1 /Home/SearchData/save/key/%E6%9D%BE%E6%9D%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: A D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\Application\Home\Controller\SearchDataController.class.php 第 16 行.
+NOTIC: [8] Undefined index: A D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\Application\Home\Controller\SearchDataController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T11:07:59+08:00 ] ::1 /Home/SearchData/save/key/%E6%9D%BE%E6%9D%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: A D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\Application\Home\Controller\SearchDataController.class.php 第 16 行.
+NOTIC: [8] Undefined index: A D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\Application\Home\Controller\SearchDataController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T11:08:50+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T11:08:52+08:00 ] ::1 /Home/SearchData/save/key/%E4%BD%A0%E5%A5%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: A D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\Application\Home\Controller\SearchDataController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T11:17:00+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T11:17:07+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+
+[ 2016-06-07T11:17:55+08:00 ] ::1 /Home/SearchData/save/key/thinkphp%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+
+[ 2016-06-07T11:17:55+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=thinkphp%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T11:17:55+08:00 ] ::1 /Home/SearchData/save/key/thinkphp%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+
+[ 2016-06-07T11:20:08+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E7%82%AF%E5%A5%88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+
+[ 2016-06-07T11:20:32+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E7%82%AF%E5%A5%88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+
+[ 2016-06-07T11:21:13+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E7%82%AF%E5%A5%88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+
+[ 2016-06-07T11:23:31+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E7%82%AF%E5%A5%88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+
+[ 2016-06-07T11:24:35+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E7%82%AF%E5%A5%88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`) VALUES ('123','hehe','1','16-06-07 11:24:35') [ RunTime:0.0330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T11:52:44+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=thinkphp%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T11:52:50+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T11:52:50+08:00 ] ::1 /index.php/Home/BookMark/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T11:53:53+08:00 ] ::1 /index.php/Home/BookMark/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T11:54:09+08:00 ] ::1 /index.php/Home/BookMark/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T11:55:04+08:00 ] ::1 /index.php/Home/BookMark/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T11:56:19+08:00 ] ::1 /index.php/Home/BookMark/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T11:57:20+08:00 ] ::1 /index.php/Home/BookMark/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T11:57:33+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+ERR: 1054:Unknown column 'id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `searchdata` WHERE `id` = 'key=沈金龙' 
+ERR: 1054:Unknown column 'id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `searchdata` WHERE `id` = 'key=沈金龙' 
+
+[ 2016-06-07T11:58:01+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+ERR: 1054:Unknown column 'id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `searchdata` WHERE `id` = 'key=沈金龙' 
+ERR: 1054:Unknown column 'id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `searchdata` WHERE `id` = 'key=沈金龙' 
+
+[ 2016-06-07T11:58:45+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'key=沈金龙 ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `sdCount` FROM `searchdata` WHERE ( key=沈金龙 ) LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'key=沈金龙 ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `sdCount` FROM `searchdata` WHERE ( key=沈金龙 ) LIMIT 1  
+
+[ 2016-06-07T11:59:37+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+ERR: 1054:Unknown column '沈金龙' in 'where clause'
+ [ SQL语句 ] : SELECT `sdCount` FROM `searchdata` WHERE ( sdName=沈金龙 ) LIMIT 1  
+ERR: 1054:Unknown column '沈金龙' in 'where clause'
+ [ SQL语句 ] : SELECT `sdCount` FROM `searchdata` WHERE ( sdName=沈金龙 ) LIMIT 1  
+
+[ 2016-06-07T12:01:49+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E7%82%AF%E5%A5%88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdCount` FROM `searchdata` WHERE ( "sdName"="沈炯奈" ) LIMIT 1   [ RunTime:0.0000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'key=沈炯奈 )' at line 1
+ [ SQL语句 ] : UPDATE `searchdata` SET `sdCount`='1',`sdModifyTime`='16-06-07 12:01:49' WHERE ( key=沈炯奈 )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'key=沈炯奈 )' at line 1
+ [ SQL语句 ] : UPDATE `searchdata` SET `sdCount`='1',`sdModifyTime`='16-06-07 12:01:49' WHERE ( key=沈炯奈 )
+
+[ 2016-06-07T12:01:56+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdCount` FROM `searchdata` WHERE ( "sdName"="沈金龙" ) LIMIT 1   [ RunTime:0.0000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'key=沈金龙 )' at line 1
+ [ SQL语句 ] : UPDATE `searchdata` SET `sdCount`='1',`sdModifyTime`='16-06-07 12:01:56' WHERE ( key=沈金龙 )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'key=沈金龙 )' at line 1
+ [ SQL语句 ] : UPDATE `searchdata` SET `sdCount`='1',`sdModifyTime`='16-06-07 12:01:56' WHERE ( key=沈金龙 )
+
+[ 2016-06-07T12:03:45+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T12:37:21+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+ERR: 1054:Unknown column '$key' in 'where clause'
+ [ SQL语句 ] : SELECT `sdName` FROM `searchdata` WHERE ( sdName=$key ) LIMIT 1  
+ERR: 1054:Unknown column '$key' in 'where clause'
+ [ SQL语句 ] : SELECT `sdName` FROM `searchdata` WHERE ( sdName=$key ) LIMIT 1  
+
+[ 2016-06-07T12:37:37+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+ERR: 1054:Unknown column '沈金龙' in 'where clause'
+ [ SQL语句 ] : SELECT `sdName` FROM `searchdata` WHERE ( sdName=沈金龙 ) LIMIT 1  
+ERR: 1054:Unknown column '沈金龙' in 'where clause'
+ [ SQL语句 ] : SELECT `sdName` FROM `searchdata` WHERE ( sdName=沈金龙 ) LIMIT 1  
+
+[ 2016-06-07T12:39:33+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-06-07T12:40:13+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdCount` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'key=沈金龙 )' at line 1
+ [ SQL语句 ] : UPDATE `searchdata` SET `sdCount`='1',`sdModifyTime`='16-06-07 12:40:13' WHERE ( key=沈金龙 )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'key=沈金龙 )' at line 1
+ [ SQL语句 ] : UPDATE `searchdata` SET `sdCount`='1',`sdModifyTime`='16-06-07 12:40:13' WHERE ( key=沈金龙 )
+
+[ 2016-06-07T12:41:05+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdCount` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'key=沈金龙 )' at line 1
+ [ SQL语句 ] : UPDATE `searchdata` SET `sdCount`='1',`sdModifyTime`='16-06-07 12:41:05' WHERE ( key=沈金龙 )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'key=沈金龙 )' at line 1
+ [ SQL语句 ] : UPDATE `searchdata` SET `sdCount`='1',`sdModifyTime`='16-06-07 12:41:05' WHERE ( key=沈金龙 )
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\Application\Home\Controller\SearchDataController.class.php:24) D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\ThinkPHP\Library\Think\Think.class.php 第 256 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\Application\Home\Controller\SearchDataController.class.php:24) D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\ThinkPHP\Library\Think\Think.class.php 第 257 行.
+
+[ 2016-06-07T12:41:29+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-07T12:42:07+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-07T12:44:00+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-07T14:16:13+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] require_once(../../Common/Common/common.php): failed to open stream: No such file or directory D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\Application\Home\Controller\SearchDataController.class.php 第 6 行.
+
+[ 2016-06-07T14:18:01+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T14:18:03+08:00 ] ::1 /Home/SearchData/save/key/Cannot%20find%20declaration%20to%20go%20to%20php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0060s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='Cannot find declaration to go to php' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-06-07T14:19:40+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('9527','沈金龙','1','16-06-07 02:19:40','沈金龙') [ RunTime:0.0340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:19:43+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('9527','沈金龙','1','16-06-07 02:19:43','沈金龙') [ RunTime:0.0470s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:19:58+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('9527','沈金龙','1','16-06-07 02:19:58','沈金龙') [ RunTime:0.0450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:20:54+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('9527','沈金龙','1','16-06-07 02:20:54','123') [ RunTime:0.0540s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:22:25+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('9527','沈金龙','1','16-06-07 02:22:25','沈金龙') [ RunTime:0.0350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:25:06+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('9527','沈金龙','1','16-06-07 02:25:06','沈金龙') [ RunTime:0.0440s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:27:07+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('9527','沈金龙','1','16-06-07 02:27:07','沈金龙') [ RunTime:0.0320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:30:28+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('726c6bb8-11c1-2b88-8d17-56df7716073f','沈金龙','1','16-06-07 02:30:28','沈金龙') [ RunTime:0.1110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:31:47+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('dbaeddfde8171b4dacde7f3b146b1cca','沈金龙','1','16-06-07 02:31:47','沈金龙') [ RunTime:0.0560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:32:00+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('7a704dcec5e71d1fde51f6af21074081','沈金龙','1','16-06-07 02:32:00','沈金龙') [ RunTime:0.0500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:32:57+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'key=沈金龙 )' at line 1
+ [ SQL语句 ] : UPDATE `searchdata` SET `sdCount`='2',`sdModifyTime`='16-06-07 02:32:57' WHERE ( key=沈金龙 )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'key=沈金龙 )' at line 1
+ [ SQL语句 ] : UPDATE `searchdata` SET `sdCount`='2',`sdModifyTime`='16-06-07 02:32:57' WHERE ( key=沈金龙 )
+
+[ 2016-06-07T14:33:14+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:33:40+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:34:37+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdCount` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'key='沈金龙' )' at line 1
+ [ SQL语句 ] : UPDATE `searchdata` SET `sdCount`='1',`sdModifyTime`='16-06-07 02:34:37' WHERE ( key='沈金龙' )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'key='沈金龙' )' at line 1
+ [ SQL语句 ] : UPDATE `searchdata` SET `sdCount`='1',`sdModifyTime`='16-06-07 02:34:37' WHERE ( key='沈金龙' )
+
+[ 2016-06-07T14:35:32+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdCount` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='1',`sdModifyTime`='16-06-07 02:35:32' WHERE ( sdName='沈金龙' ) [ RunTime:0.0580s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-06-07T14:35:52+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('c6873a36af6bcfc122f25bf9f57cac8d','沈金龙','1','16-06-07 02:35:52','沈金龙') [ RunTime:0.0580s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:35:53+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('13b8129df109a341d5547d0b2eef37b6','沈金龙','1','16-06-07 02:35:53','沈金龙') [ RunTime:0.0350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:35:53+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('66cbbdf487c3803207ec4341040d018e','沈金龙','1','16-06-07 02:35:53','沈金龙') [ RunTime:0.0270s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T14:35:53+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('3bb8b41ce9e17825ec8685488727d9be','沈金龙','1','16-06-07 02:35:53','沈金龙') [ RunTime:0.0260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-06-07T14:35:54+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('5b6ccde9cc9fbe4b709f953bb39a7cb7','沈金龙','1','16-06-07 02:35:54','沈金龙') [ RunTime:0.0400s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:36:06+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('f7a5d448e5bd7df58c9adbb2db70ba2b','沈金龙','1','16-06-07 02:36:06','沈金龙') [ RunTime:0.0330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:36:06+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('e3984723a48fa518b3faf42c02cc4c90','沈金龙','1','16-06-07 02:36:06','沈金龙') [ RunTime:0.0360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:36:06+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('8bef1811a5c219b1118be76bdb183bc7','沈金龙','1','16-06-07 02:36:06','沈金龙') [ RunTime:0.0350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:36:06+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('8ad56039498bfd95093f752599b9d4fa','沈金龙','1','16-06-07 02:36:06','沈金龙') [ RunTime:0.0330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:36:39+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('5ec391a9ade2b2d8bc21953adcc916b2','沈金龙','1','16-06-07 02:36:38','沈金龙') [ RunTime:0.0400s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:36:39+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('8c05bedaae0b2b1bfa8ccc89def42bae','沈金龙','1','16-06-07 02:36:39','沈金龙') [ RunTime:0.0160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:36:39+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('2db3d42cb6d0181d98292ec1d4124e2a','沈金龙','1','16-06-07 02:36:39','沈金龙') [ RunTime:0.0340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:36:39+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('7a3955b812aa698791766c1c4a5bda59','沈金龙','1','16-06-07 02:36:39','沈金龙') [ RunTime:0.0190s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:36:39+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('a5f22b3cc572570651891cbe0a831f5d','沈金龙','1','16-06-07 02:36:39','沈金龙') [ RunTime:0.0200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:36:39+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('008ac4ab07baff0ff6135536f604d72c','沈金龙','1','16-06-07 02:36:39','沈金龙') [ RunTime:0.0180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:36:39+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('8e4615225cbebca310e2b2cd4994fef6','沈金龙','1','16-06-07 02:36:39','沈金龙') [ RunTime:0.0090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:36:40+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('c0d5697fc646a10b3fae5a6ea5fe0346','沈金龙','1','16-06-07 02:36:40','沈金龙') [ RunTime:0.0160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:36:59+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='2',`sdModifyTime`='16-06-07 02:36:59' WHERE ( sdName='沈金龙' ) [ RunTime:0.0420s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:37:00+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `searchdata` SET `sdCount`='3',`sdModifyTime`='16-06-07 02:37:00' WHERE ( sdName='沈金龙' ) [ RunTime:0.0370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:37:00+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='4',`sdModifyTime`='16-06-07 02:37:00' WHERE ( sdName='沈金龙' ) [ RunTime:0.0850s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:37:00+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='5',`sdModifyTime`='16-06-07 02:37:00' WHERE ( sdName='沈金龙' ) [ RunTime:0.0170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:37:01+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='6',`sdModifyTime`='16-06-07 02:37:00' WHERE ( sdName='沈金龙' ) [ RunTime:0.0290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:37:01+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='7',`sdModifyTime`='16-06-07 02:37:01' WHERE ( sdName='沈金龙' ) [ RunTime:0.0150s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:37:01+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='8',`sdModifyTime`='16-06-07 02:37:01' WHERE ( sdName='沈金龙' ) [ RunTime:0.0160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:37:36+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='1',`sdModifyTime`='16-06-07 02:37:36' WHERE ( sdName='沈金龙' ) [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:37:48+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='1',`sdModifyTime`='16-06-07 02:37:48' WHERE ( sdName='沈金龙' ) [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:37:50+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='1',`sdModifyTime`='16-06-07 02:37:50' WHERE ( sdName='沈金龙' ) [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T14:37:51+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='1',`sdModifyTime`='16-06-07 02:37:51' WHERE ( sdName='沈金龙' ) [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:38:43+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:39:12+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('1ff7e33bf07979f0bce0248ab3c5309b','沈金龙','1','16-06-07 02:39:12','沈金龙') [ RunTime:0.0410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:39:16+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('b0dea367a145b7470d939abdfec9bf5f','沈金龙','1','16-06-07 02:39:16','沈金龙') [ RunTime:0.0330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T14:39:16+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('ac40d99624f4fd5b42a1d122c4e64afa','沈金龙','1','16-06-07 02:39:16','沈金龙') [ RunTime:0.0310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T14:39:17+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('4d736c9e172c2d1441a2a0de1a741e6a','沈金龙','1','16-06-07 02:39:17','沈金龙') [ RunTime:0.0180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:39:17+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('bf53e06b8aa38f76d7bc9128a6f0f4d9','沈金龙','1','16-06-07 02:39:17','沈金龙') [ RunTime:0.0290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:39:17+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('c866aad221de58fa940fc0ce379f02d8','沈金龙','1','16-06-07 02:39:17','沈金龙') [ RunTime:0.0170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:39:17+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('5ea488834228c906086268ced3e7c641','沈金龙','1','16-06-07 02:39:17','沈金龙') [ RunTime:0.0180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:39:17+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('7f8af417e38db2bc1e1394bff90833f1','沈金龙','1','16-06-07 02:39:17','沈金龙') [ RunTime:0.0370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:39:18+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('50fa3c5091e2f579b6dd29c49937c090','沈金龙','1','16-06-07 02:39:17','沈金龙') [ RunTime:0.0180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:39:18+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('63efa9cc4c85b189dccaa0c2f3df45f0','沈金龙','1','16-06-07 02:39:18','沈金龙') [ RunTime:0.0180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T14:41:58+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-07T14:42:19+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-07T14:42:21+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-07T14:42:21+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-07T14:42:21+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-07T14:42:21+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-07T14:42:21+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-07T14:42:22+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-07T14:44:23+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='2',`sdModifyTime`='16-06-07 02:44:23' WHERE ( sdName='沈金龙' ) [ RunTime:0.0240s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:44:29+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='3',`sdModifyTime`='16-06-07 02:44:29' WHERE ( sdName='沈金龙' ) [ RunTime:0.0410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:44:29+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='4',`sdModifyTime`='16-06-07 02:44:29' WHERE ( sdName='沈金龙' ) [ RunTime:0.0630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:44:30+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='5',`sdModifyTime`='16-06-07 02:44:30' WHERE ( sdName='沈金龙' ) [ RunTime:0.0460s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:44:30+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='6',`sdModifyTime`='16-06-07 02:44:30' WHERE ( sdName='沈金龙' ) [ RunTime:0.0240s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:44:30+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='7',`sdModifyTime`='16-06-07 02:44:30' WHERE ( sdName='沈金龙' ) [ RunTime:0.0220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:44:30+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='8',`sdModifyTime`='16-06-07 02:44:30' WHERE ( sdName='沈金龙' ) [ RunTime:0.0280s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T14:44:31+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='9',`sdModifyTime`='16-06-07 02:44:31' WHERE ( sdName='沈金龙' ) [ RunTime:0.0250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:45:01+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='10',`sdModifyTime`='16-06-07 02:45:01' WHERE ( sdName='沈金龙' ) [ RunTime:0.0650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:45:35+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-07T14:46:33+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('e72f24814dececa1ffeab59e6f9a558f','沈金龙','1','16-06-07 02:46:33','沈金龙') [ RunTime:0.0340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T14:46:49+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `searchdata` SET `sdCount`='2',`sdModifyTime`='16-06-07 02:46:49' WHERE ( sdName='沈金龙' ) [ RunTime:0.0390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:46:59+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='3',`sdModifyTime`='16-06-07 02:46:59' WHERE ( sdName='沈金龙' ) [ RunTime:0.0360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:47:00+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T14:47:00+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='沈金龙' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='4',`sdModifyTime`='16-06-07 02:47:00' WHERE ( sdName='沈金龙' ) [ RunTime:0.0250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:47:30+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='5',`sdModifyTime`='16-06-07 02:47:30' WHERE ( sdName='邱蜀燕' ) [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:47:30+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:47:30+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='5',`sdModifyTime`='16-06-07 02:47:30' WHERE ( sdName='邱蜀燕' ) [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:47:56+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:48:24+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT `sdName` FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdName` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `sdCount` FROM `searchdata` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `searchdata` SET `sdCount`='5',`sdModifyTime`='16-06-07 02:48:24' WHERE ( sdName='邱蜀燕' ) [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T14:55:14+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-07T14:55:45+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-06-07T14:56:12+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('c141ebf2d7e28dcdf530682d8c77cbdc','邱蜀燕','1','16-06-07 02:56:12','沈金龙') [ RunTime:0.0350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:56:17+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('d9d2675caf33fb008f7fdd73d58832af','邱蜀燕','1','16-06-07 02:56:16','沈金龙') [ RunTime:0.0380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T14:56:18+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('d87a933d43104e45e6d4002a5ae25ff0','邱蜀燕','1','16-06-07 02:56:18','沈金龙') [ RunTime:0.0450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:56:20+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('a8de0fbf6c1991ecfdb42505ae98420e','邱蜀燕','1','16-06-07 02:56:20','沈金龙') [ RunTime:0.0280s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T14:56:47+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('1df83727e58e8faaddee2e2c802059b5','邱蜀燕','1','16-06-07 02:56:47','沈金龙') [ RunTime:0.0370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:56:50+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('7e482064d21ab134bd779f75ae1d7e71','邱蜀燕','1','16-06-07 02:56:50','沈金龙') [ RunTime:0.0430s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:57:48+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('83843a65d1d3440a818d5f943c9efbd8','邱蜀燕','1','16-06-07 02:57:48','沈金龙') [ RunTime:0.0470s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:58:06+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('c59011c35dc08f8e4a646148699df9d4','邱蜀燕','1','16-06-07 02:58:06','沈金龙') [ RunTime:0.0450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:58:20+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('7b2275eea7de33011eeeef55d02e002d','邱蜀燕','1','16-06-07 02:58:20','沈金龙') [ RunTime:0.0380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T14:58:23+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('0bf7a1e0a08fd8ada34924597cb93d1f','邱蜀燕','1','16-06-07 02:58:23','沈金龙') [ RunTime:0.0160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:58:24+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('2477f37d968a0a2f94ba183e08190946','邱蜀燕','1','16-06-07 02:58:24','沈金龙') [ RunTime:0.0840s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:58:25+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('b59ce1b8715ba9a71ca16834495f276c','邱蜀燕','1','16-06-07 02:58:25','沈金龙') [ RunTime:0.0280s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:58:27+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('55b5ae5aa7991a567cb0a96a8cab3830','邱蜀燕','1','16-06-07 02:58:27','沈金龙') [ RunTime:0.0300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T14:59:42+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('91ee481ed077e939ee46a172ab2ad246','邱蜀燕','1','16-06-07 02:59:42','沈金龙') [ RunTime:0.0310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-06-07T15:00:03+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('c745071e71f257bf068613c717329969','邱蜀燕','1','16-06-07 03:00:03','沈金龙') [ RunTime:0.0330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T15:00:05+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('90406b479f788ea24ae2f549b040a320','邱蜀燕','1','16-06-07 03:00:05','沈金龙') [ RunTime:0.0330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T15:02:42+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('c5dd2056590371ebef805582a5704b86','邱蜀燕','1','16-06-07 03:02:42','沈金龙') [ RunTime:0.0380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T15:02:44+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('ab15f6da682bb9fcf0228347e490e50b','邱蜀燕','1','16-06-07 03:02:44','沈金龙') [ RunTime:0.0310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T15:42:55+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('8bd11edf375a5988a1362c99c7f53a31','邱蜀燕','1','16-06-07 03:42:55','沈金龙') [ RunTime:0.0570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T15:42:59+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('9932f61486f1311a9843277dc1b93b0b','邱蜀燕','1','16-06-07 03:42:59','沈金龙') [ RunTime:0.0150s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T15:43:12+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('8afb752922cf09d6ac9930d80f2f5d5e','邱蜀燕','1','16-06-07 03:43:12','沈金龙') [ RunTime:0.0380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T15:43:14+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('c8a1ad7f6674382e60870718a26cf2b3','邱蜀燕','1','16-06-07 03:43:14','沈金龙') [ RunTime:0.0250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T15:43:56+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('eddedef158aeedc76dcdd44e2d0bdef9','邱蜀燕','1','16-06-07 03:43:56','沈金龙') [ RunTime:0.0350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T15:45:30+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('e041aeecc5221232654b1cf20b8f81fe','邱蜀燕','1','16-06-07 03:45:30','沈金龙') [ RunTime:0.0400s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-06-07T15:45:46+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('6b3de1e530794137ff547d043c00f4e3','邱蜀燕','1','16-06-07 03:45:46','沈金龙') [ RunTime:0.0270s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T15:53:39+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('2c52f91479aea0f54e6564b2a4cc1637','邱蜀燕','1','16-06-07 03:53:39','沈金龙') [ RunTime:0.0370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T16:03:33+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('9932e054cdb8d2ee54062b3e6053aba2','邱蜀燕','1','16-06-07 04:03:33','沈金龙') [ RunTime:0.0470s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T16:03:35+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('4bcf1a41b7fcfb68f227a50dd6a413a1','邱蜀燕','1','16-06-07 04:03:35','沈金龙') [ RunTime:0.0390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T16:03:36+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('c237c409a54ab39607610b449c871bc1','邱蜀燕','1','16-06-07 04:03:36','沈金龙') [ RunTime:0.0280s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T16:03:37+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('31dd54b5a732efd82ece43537a3a69fc','邱蜀燕','1','16-06-07 04:03:37','沈金龙') [ RunTime:0.0210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T16:03:43+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('ec292641203ca1ef6573a14e6357a808','邱蜀燕','1','16-06-07 04:03:43','沈金龙') [ RunTime:0.0410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T16:03:44+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('e5f93e235f765e5650a51f7a36c8ccfd','邱蜀燕','1','16-06-07 04:03:44','沈金龙') [ RunTime:0.0260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T16:03:45+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('cf9fd74eae6d4e8e7bba819d525e4b43','邱蜀燕','1','16-06-07 04:03:45','沈金龙') [ RunTime:0.0270s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T16:03:46+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('25fb0c59720f3657bb6306c9819c7fec','邱蜀燕','1','16-06-07 04:03:46','沈金龙') [ RunTime:0.0310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T16:04:44+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('a9a83e43f925db21cc60124d7d935b63','邱蜀燕','1','16-06-07 04:04:44','沈金龙') [ RunTime:0.0440s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T16:04:45+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('0de7ba18328ea40525da5b093791c86b','邱蜀燕','1','16-06-07 04:04:45','沈金龙') [ RunTime:0.0340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T16:04:51+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('a43b12f138b7ee86b460e4747610b982','邱蜀燕','1','16-06-07 04:04:51','沈金龙') [ RunTime:0.0390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T16:05:58+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('8a898eeea325645e753956d9ebace2bf','邱蜀燕','1','16-06-07 04:05:58','沈金龙') [ RunTime:0.0410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T16:06:11+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('59fa7ae7362b671d7af0af04047c58fb','邱蜀燕','1','16-06-07 04:06:11','沈金龙') [ RunTime:0.0270s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T16:06:21+08:00 ] ::1 /Home/SearchData/save/key/shenjinlong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('abc85426ae8b06e6c9a99c02aff56e24','shenjinlong','1','16-06-07 04:06:21','沈金龙') [ RunTime:0.0370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T16:06:58+08:00 ] ::1 /Home/SearchData/save/key/shenjinlong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('6248a17379e68a5f28af0ebde2adb5a2','shenjinlong','1','16-06-07 04:06:58','沈金龙') [ RunTime:0.0290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T16:07:00+08:00 ] ::1 /Home/SearchData/save/key/shenjinlong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('a660c5151a68a92e3115b42f0fde221f','shenjinlong','1','16-06-07 04:06:59','沈金龙') [ RunTime:0.0250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T17:59:03+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T17:59:37+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('b8bd055de7ae3ba5704da4554ef7e419','沈金龙','1','16-06-07 05:59:37','沈金龙') [ RunTime:0.0380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T17:59:37+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-07T17:59:37+08:00 ] ::1 /Home/SearchData/save/key/%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('21cafec30e1a8c8294036ddc59dd2807','沈金龙','1','16-06-07 05:59:37','沈金龙') [ RunTime:0.0280s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T17:59:42+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('d4b554a0f25e8ad86be35b67ecf1193c','邱蜀燕','1','16-06-07 05:59:42','沈金龙') [ RunTime:0.0350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T17:59:42+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T17:59:42+08:00 ] ::1 /Home/SearchData/save/key/%E9%82%B1%E8%9C%80%E7%87%95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('b7d182ef7c674241369b7f5e6c51e832','邱蜀燕','1','16-06-07 05:59:42','沈金龙') [ RunTime:0.0360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T19:16:33+08:00 ] ::1 /index.php/Home/BookMark/index.html?wd=%E6%B2%88%E9%87%91%E9%BE%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-07T19:16:53+08:00 ] ::1 /Home/SearchData/save/key/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: key D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\Application\Home\Controller\SearchDataController.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `searchdata` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `searchdata` WHERE ( 'sdName'='邱蜀燕' ) LIMIT 1   [ RunTime:0.0010s ]
+ERR: 1048:Column 'sdName' cannot be null
+ [ SQL语句 ] : INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('2bc3624f88dbcb3b64987632e3bd56d3',NULL,'1','16-06-07 07:16:53','沈金龙')
+ERR: 1048:Column 'sdName' cannot be null
+ [ SQL语句 ] : INSERT INTO `searchdata` (`sdGUID`,`sdName`,`sdCount`,`sdCreateTime`,`sdUserName`) VALUES ('2bc3624f88dbcb3b64987632e3bd56d3',NULL,'1','16-06-07 07:16:53','沈金龙')
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\Application\Home\Controller\SearchDataController.class.php:37) D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\ThinkPHP\Library\Think\Think.class.php 第 256 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\Application\Home\Controller\SearchDataController.class.php:37) D:\00MyWorkSpace\99MyGitHub\PHPer\MyProject\MySiteForBookMarks\ThinkPHP\Library\Think\Think.class.php 第 257 行.
+

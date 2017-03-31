@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>简历导出</title>
+    <style type="text/css">
+    body,table,tr,td,div,p,span,img{padding:0; margin:0;border:none;font-size: 14px; color:#666; line-height:28px;font-family:"微软雅黑","宋体",tahoma, Helvetica, sans-serif;}
+    body{ background: #fff; margin:0 auto;}
+    img{ display: block;}
+    .main{ width:716px;margin:0 auto;}
+    .name{ font-size: 20px; line-height: 40px; color:#333;}
+    .infor{ font-size: 16px; line-height: 30px;}
+    .title p{ font-size:20px; line-height: 50px; color:#f95659; font-weight: bold; border-bottom: 2px solid #f95659;}
+    p.jobName{font-size:15px; font-weight: bold; color:#333;}
+    p.detail{ padding-top: 15px;}
+    p.person{ text-indent: 2em; padding-left:20px;} 
+    strong{ font-size: 13px; color:#555;}
+    </style>
+    <script>!function(t,e,w){w._ty_key='4qNqd6l0Kt8';var a=t.createElement(e);a.async=!0,a.src=('https:'==t.location.protocol?'https://':'http://')+'st01.chrstatic.com/themes/mchinahr/js/tingyun-rum.js?20161114';var c=t.getElementsByTagName(e)[0];c.parentNode.insertBefore(a,c)}(document,'script',window);</script>
+
+<script type='text/javascript'>
+    var _vds = _vds || [];
+    window._vds = _vds;
+    (function(){
+        _vds.push(['setAccountId', 'be17cdb1115be298']);
+        _vds.push(['setImp', false]);
+        (function() {
+            var vds = document.createElement('script');
+            vds.type='text/javascript';
+            vds.async = true;
+            vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(vds, s);
+        })();
+    })();
+</script></head>
+<body>
+<div class="main">
+<table width="716" border="0" cellspacing="0" cellpadding="0" align="center">
+    <tr>
+        <td height="3" bgcolor="#e83838"></td>
+    </tr>
+    <tr>
+        <td height="" align="center"><img src="http://static.chinahr.com/themes/pcchinahr/img/logo.gif"></td>
+    </tr>
+    <tr>
+        <td height="" align="center" style="padding-top:20px;">
+        			    	<img src="http://static.chinahr.com/themes/pcchinahr/img/exportPhoto.jpg" width="170" height="170">
+		            </td>
+    </tr>
+    <tr>
+        <td align="center" class="name">我的简历-程序猿</td>
+    </tr>
+    <tr>
+        <td align="center" class="infor"></td>
+    </tr>
+    <tr><td height="20"></td></tr>
+    
+    <tr>
+        <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="45%" style="padding-left:5%;">
+                  <p> 男                      &nbsp;&nbsp;&nbsp;&nbsp;24                   </p>
+                  <p>                     &nbsp;&nbsp;&nbsp;&nbsp;未婚                   </p>
+                  <p>
+                     &nbsp;&nbsp;&nbsp;&nbsp;                  </p>
+                  
+                                                    </td>
+                <td width="45%" style="padding-left:5%;">
+                  <p>目前居住地：广东-广州                   	                   </p>
+                  <p>18620182753</p>                  <p>selonsy@163.com</p>                                                    </td>
+              </tr>
+            </table>
+        </td>
+    </tr>
+    
+    <!-- 工作经历 -->
+        <tr>
+        <td>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="middle" height="70"><img src="http://static.chinahr.com/themes/pcchinahr/img/exportLine.gif" width="308" height="10"></td>
+            <td class="title" width="100" align="center" valign="middle"><p>工作经历</p></td>
+            <td valign="middle"><img src="http://static.chinahr.com/themes/pcchinahr/img/exportLine.gif" width="308" height="10"></td>
+          </tr>
+          <tr>
+            <td colspan="3">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                    <td width="40" valign="top" align="center"><img src="http://static.chinahr.com/themes/pcchinahr/img/exportCir.gif" width="8" height="8"></td>
+                    <td width="676">
+                        <p>2012.01 － 2016.11</p>
+                        <p class="jobName">程序猿</p>
+                        <p>
+                        	 多益 |                         	
+                        	  其他 |                         	
+                        	                        </p>
+                                                <p>
+                        	                        	
+                        	                        		程序猿
+                        	                        </p>
+                                                <p>&nbsp;</p>
+                                            </td>
+                  </tr>
+                                                    </table>
+            </td>
+          </tr>
+        </table>
+        </td>
+    </tr>
+        
+    
+    <!-- 教育经历 -->
+        <tr>
+        <td>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="middle" height="70"><img src="http://static.chinahr.com/themes/pcchinahr/img/exportLine.gif" width="308" height="10"></td>
+            <td class="title" width="100" align="center" valign="middle"><p>教育经历</p></td>
+            <td valign="middle"><img src="http://static.chinahr.com/themes/pcchinahr/img/exportLine.gif" width="308" height="10"></td>
+          </tr>
+          <tr>
+            <td colspan="3">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr>
+                    <td width="40" valign="top" align="center"><img src="http://static.chinahr.com/themes/pcchinahr/img/exportCir.gif" width="8" height="8"></td>
+                    <td width="676">
+                    	                    		<p>毕业</p>
+				    	                        <p class="jobName">大学</p>
+                        <p>
+                        	 博士 |                         	
+                        	 打工                          </p>
+                                            </td>
+                  </tr>
+                                                  </table>
+            </td>
+          </tr>
+        </table>
+        </td>
+    </tr>
+        
+    <!-- 求职意向 -->
+        <tr>
+        <td>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="middle" height="70"><img src="http://static.chinahr.com/themes/pcchinahr/img/exportLine.gif" width="308" height="10"></td>
+            <td class="title" width="100" align="center" valign="middle"><p>求职意向</p></td>
+            <td valign="middle"><img src="http://static.chinahr.com/themes/pcchinahr/img/exportLine.gif" width="308" height="10"></td>
+          </tr>
+          <tr>
+            <td colspan="3">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="40" valign="top" align="center"></td>
+                    <td width="676">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                            <tr>
+                            <td width="150" valign="top"><strong>期望工作：</strong></td>
+                            <td width="566">首席财务官 CFO</td>
+                          </tr>
+                                                                              
+                                                    <tr>
+                            <td valign="top"><strong>目前工作状态：</strong></td>
+                            <td>在职</td>
+                          </tr>
+                                                                              <tr>
+                            <td valign="top"><strong>期望地点：</strong></td>
+                            <td>安徽-马鞍山</td>
+                          </tr>
+                                                                             <tr>
+                            <td valign="top"><strong>期望单位性质：</strong></td>
+                            <td>其他</td>
+                          </tr>
+                                                                              <tr>
+                            <td valign="top"><strong>期望薪水：</strong></td>
+                            <td>及以上 （可面议）</td>
+                          </tr>
+                                                  </table>
+                    </td>
+                  </tr>
+                  <tr><td height="20"></td></tr>
+                </table>
+            </td>
+          </tr>
+        </table>
+        </td>
+    </tr>
+        
+    <!-- 项目经历 -->
+        
+    <!-- 培训经历 -->
+        
+  	<!-- 专业技能 -->
+  	    
+    <!-- 语言技能 -->
+        <tr>
+        <td>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="middle" height="70"><img src="http://static.chinahr.com/themes/pcchinahr/img/exportLine.gif" width="308" height="10"></td>
+            <td class="title" width="100" align="center" valign="middle"><p>语言技能</p></td>
+            <td valign="middle"><img src="http://static.chinahr.com/themes/pcchinahr/img/exportLine.gif" width="308" height="10"></td>
+          </tr>
+          <tr>
+            <td colspan="3">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                </table>
+            </td>
+          </tr>
+        </table>
+        </td>
+    </tr>
+        
+    <!-- 证书 -->
+        <tr>
+        <td>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="middle" height="70"><img src="http://static.chinahr.com/themes/pcchinahr/img/exportLine.gif" width="293" height="10"></td>
+            <td class="title" width="130" align="center" valign="middle"><p>证书及奖项</p></td>
+            <td valign="middle"><img src="http://static.chinahr.com/themes/pcchinahr/img/exportLine.gif" width="293" height="10"></td>
+          </tr>
+          <tr>
+            <td colspan="3">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                </table>
+            </td>
+          </tr>
+        </table>
+        </td>
+    </tr>
+        
+    <!-- 作品展示 -->
+        
+    
+    <!-- 个人评价 -->
+        
+    <tr><td height="60"></td></tr>
+    <tr><td align="center" style="color:#999">中华英才网，找你爱的工作，过你要的生活。- http://www.chinahr.com</td></tr>
+</table>   
+</div>
+</body>
+</html>

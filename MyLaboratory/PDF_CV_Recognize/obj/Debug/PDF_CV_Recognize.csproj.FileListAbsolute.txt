@@ -1,0 +1,16 @@
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\PDF_CV_Recognize\bin\Debug\PDF_CV_Recognize.exe.config
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\PDF_CV_Recognize\bin\Debug\PDF_CV_Recognize.exe
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\PDF_CV_Recognize\bin\Debug\PDF_CV_Recognize.pdb
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\PDF_CV_Recognize\obj\Debug\PDF_CV_Recognize.csprojResolveAssemblyReference.cache
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\PDF_CV_Recognize\obj\Debug\PDF_CV_Recognize.exe
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\PDF_CV_Recognize\obj\Debug\PDF_CV_Recognize.pdb
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\PDF_CV_Recognize\bin\Debug\IKVM.Runtime.dll
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\PDF_CV_Recognize\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\PDF_CV_Recognize\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\PDF_CV_Recognize\bin\Debug\commons-logging.dll
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\PDF_CV_Recognize\bin\Debug\fontbox-1.8.9.dll
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\PDF_CV_Recognize\bin\Debug\Newtonsoft.Json.dll
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\PDF_CV_Recognize\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\PDF_CV_Recognize\bin\Debug\office.dll
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\PDF_CV_Recognize\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\00MyWorkSpace\99MyGitHub\MyProject\MyLaboratory\PDF_CV_Recognize\bin\Debug\stdole.dll
